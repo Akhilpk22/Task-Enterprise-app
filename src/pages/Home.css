@@ -25,6 +25,7 @@ body {
     border: 1px solid #ddd;
 }
 
+/* media query using two side left and middle */
 @media (max-width:480px) {
     .sub-portion3 {
         display: none;

@@ -35,7 +35,7 @@
     border: none;
     background-color: white;
   }
-
+/* media query usinf paragraph and  left side two buttons  */
   @media (max-width: 800px) {
     .plans {
       display: inline-block;
@@ -84,7 +84,7 @@
     margin-top: 15px;
     border-radius: 20px;
   }
-
+/* media query using card and first one 3 card  */
   @media (max-width: 500px) {
     .main-Cards {
       display: inline-block;
@@ -192,6 +192,7 @@
     flex-direction: column;
     align-items: center;
   }
+  /* media query using  last two  card and  that row  */
 
   @media (max-width: 870px) {
     .card {

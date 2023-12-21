@@ -51,7 +51,7 @@
   align-items: center;
 }
 
-/* Responsive adjustments */
+/*media query nav bar  */
 @media (max-width: 450px) {
   .right-portion {
    margin-left: 200px;
@@ -67,7 +67,7 @@
     margin-right: 0; 
   }
 }
-
+/* media query left side  */
 
 @media (max-width: 390px) {
   .left-portion {

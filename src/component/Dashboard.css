@@ -48,6 +48,8 @@
     text-align: center;
     color: rgba(0, 0, 255, 0.591);
   }
+
+  /*  media query using text  */
   @media (max-width:400px) {
     .profile-h3{
       font-size: 10px;
