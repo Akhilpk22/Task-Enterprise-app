@@ -1,0 +1,13 @@
+.RP-box{
+    margin-top: -2px;
+    width: 50px;
+    height: 113vh;
+    
+}
+.bell{
+    background-color: white;
+    height: 40px;
+    margin-left: 6px;
+    width: 40px;
+    border-radius: 7px;
+}
